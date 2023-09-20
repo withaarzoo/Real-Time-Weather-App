@@ -2,6 +2,12 @@
 
 This is a simple weather app that allows you to retrieve weather information for a specified location or based on latitude and longitude coordinates. It uses the OpenWeatherMap API to fetch weather data and displays weather icons from Remix Icon and Google Drive.
 
+## Tutorial
+Full Step by Step tutorial 👉🏻 [click here](https://youtu.be/X3EcVqyef14)
+
+## Full Source Code
+The complete source code can be found at the following link: 👉🏻 [click here]()
+
 ## Setup
 
 To use this weather app, you need to include the Remix Icon CSS and set up the OpenWeatherMap API.
