@@ -56,3 +56,6 @@ You can integrate this weather app into your website or application to display w
 ## License
 
 This weather app is provided under the MIT License. Feel free to use, modify, and distribute it as needed.
+
+## Preview
+
