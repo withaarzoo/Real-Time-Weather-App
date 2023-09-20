@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Remix Icon CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="./assets/css/style.css">
+
+    <!-- title -->
+    <title>Weather App - Code with Aarzoo</title>
+</head>
+
+<body>
+    <div class="wrapper">
+        <header><i class="ri-arrow-left-line active-icon"></i>Weather App<i class="ri-cloud-line weather-icon"></i></header>
+
+        <section class="input-part">
+            <p class="info-txt"></p>
+            <div class="content">
+                <input type="text" spellcheck="false" placeholder="Enter city name" required>
+                <div class="separator"></div>
+                <button>Get Device Location<i class="ri-map-pin-line"></i></button>
+            </div>
+        </section>
+
+        <section class="weather-part">
+            <img src="" alt="Weather Icon">
+            <div class="temp">
+                <span class="numb">_</span>
+                <span class="deg">°</span>C
+            </div>
+            <div class="weather">_ _</div>
+            <div class="location">
+                <i class="ri-map-pin-line"></i>
+                <span>_, _</span>
+            </div>
+            <div class="bottom-details">
+                <div class="column feels">
+                    <i class="ri-thermometer-line"></i>
+                    <div class="details">
+                        <div class="temp">
+                            <span class="numb-2">_</span>
+                            <span class="deg">°</span>C
+                        </div>
+                        <p>Feels like</p>
+                    </div>
+                </div>
+                <div class="column humidity">
+                    <i class="ri-contrast-drop-line"></i>
+                    <div class="details">
+                        <span>_</span>
+                        <p>Humidity</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+    </div>
+
+    <!-- Custom JS file -->
+    <script src="./assets/js/script.js"></script>
+</body>
+
+</html>
