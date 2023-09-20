@@ -58,4 +58,5 @@ You can integrate this weather app into your website or application to display w
 This weather app is provided under the MIT License. Feel free to use, modify, and distribute it as needed.
 
 ## Preview
+![Realtime weather App](https://github.com/Aarzoo75/Real-Time-Weather-App/assets/59678435/08e62443-36a0-431e-b3db-c7a14e64bfdd)
 
