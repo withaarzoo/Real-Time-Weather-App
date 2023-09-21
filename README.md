@@ -6,7 +6,7 @@ This is a simple weather app that allows you to retrieve weather information for
 Full Step by Step tutorial 👉🏻 [click here](https://youtu.be/X3EcVqyef14)
 
 ## Full Source Code
-The complete source code can be found at the following link: 👉🏻 [click here](https://rb.gy/2x6u7)
+The complete source code can be found at the following link: 👉🏻 [click here](https://rb.gy/2x6u7) or 👉🏻 [click here](https://rb.gy/udw8k)
 
 ## Setup
 
